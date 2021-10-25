@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nelson Bighetti | Online Courses</title>
+    <title>Digit-bio IA | Digitbio IA</title>
     <link>https://digitibio-ia.github.io/authors/admin/</link>
       <atom:link href="https://digitibio-ia.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nelson Bighetti</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <description>Digit-bio IA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021, Inrae</copyright>
     <image>
       <url>https://digitibio-ia.github.io/authors/admin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Nelson Bighetti</title>
+      <title>Digit-bio IA</title>
       <link>https://digitibio-ia.github.io/authors/admin/</link>
     </image>
     

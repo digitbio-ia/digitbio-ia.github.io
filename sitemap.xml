@@ -2,28 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://digitibio-ia.github.io/course/example/python/</loc>
+    <loc>https://digitibio-ia.github.io/sequences/concepts/s0_intro/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://digitibio-ia.github.io/course/example/visualization/</loc>
+    <loc>https://digitibio-ia.github.io/sequences/concepts/s1_classification/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://digitibio-ia.github.io/course/example/stats/</loc>
+    <loc>https://digitibio-ia.github.io/sequences/illustrations/s1_example/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://digitibio-ia.github.io/course/example/</loc>
+    <loc>https://digitibio-ia.github.io/sequences/concepts/s2_clustering/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/sequences/concepts/s3_dimreduction/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/sequences/concepts/s4_nlp/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/sequences/concepts/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://digitibio-ia.github.io/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://digitibio-ia.github.io/course/</loc>
+    <loc>https://digitibio-ia.github.io/sequences/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://digitibio-ia.github.io/tag/data-visualization/</loc>
+    <loc>https://digitibio-ia.github.io/sequences/illustrations/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/tag/apprentissage-non-supervise/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://digitibio-ia.github.io/tag/statistics/</loc>
+    <loc>https://digitibio-ia.github.io/tag/apprentissage-supervise/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/tag/classification/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/tag/clustering/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/tag/concepts/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/tag/illustrations/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/tag/reduction-de-dimension/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://digitibio-ia.github.io/tags/</loc>
@@ -44,12 +71,22 @@
   </url><url>
     <loc>https://digitibio-ia.github.io/authors/</loc>
   </url><url>
+    <loc>https://digitibio-ia.github.io/authors/bhanczar/</loc>
+  </url><url>
     <loc>https://digitibio-ia.github.io/categories/</loc>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/authors/cmaugis/</loc>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/authors/crobertgr/</loc>
   </url><url>
     <loc>https://digitibio-ia.github.io/authors/admin/</loc>
   </url><url>
-    <loc>https://digitibio-ia.github.io/publication_types/</loc>
+    <loc>https://digitibio-ia.github.io/authors/jchiquet/</loc>
   </url><url>
-    <loc>https://digitibio-ia.github.io/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://digitibio-ia.github.io/authors/lralaivola/</loc>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/authors/mlmartin/</loc>
+  </url><url>
+    <loc>https://digitibio-ia.github.io/publication_types/</loc>
   </url>
 </urlset>

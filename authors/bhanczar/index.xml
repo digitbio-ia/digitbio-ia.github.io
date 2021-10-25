@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blaise Hanczar | Digitbio IA</title>
+    <link>https://digitibio-ia.github.io/authors/bhanczar/</link>
+      <atom:link href="https://digitibio-ia.github.io/authors/bhanczar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blaise Hanczar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021, Inrae</copyright>
+    <image>
+      <url>https://digitibio-ia.github.io/authors/bhanczar/avatar_huee187da78140e592da065ca5fa017919_6754_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Blaise Hanczar</title>
+      <link>https://digitibio-ia.github.io/authors/bhanczar/</link>
+    </image>
+    
+  </channel>
+</rss>
