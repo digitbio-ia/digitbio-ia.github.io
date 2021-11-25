@@ -28,9 +28,10 @@ concerné, le temps d’entraînement, etc.&lt;/li&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;Informations pratiques&lt;/p&gt;
+&lt;p&gt;La séance aura lieu simultanément en présence et à distance&lt;/p&gt;
 &lt;p&gt;&lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 31 janvier 2022 après-midi (14:00 - 17:00)&lt;/p&gt;
-&lt;p&gt;&lt;i class=&#34;fas fa-map-marker-alt  pr-1 fa-fw&#34;&gt;&lt;/i&gt; lieu&lt;/p&gt;
-&lt;p&gt;&lt;i class=&#34;fas fa-video  pr-1 fa-fw&#34;&gt;&lt;/i&gt; lien visio&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-map-marker-alt  pr-1 fa-fw&#34;&gt;&lt;/i&gt; lieu: &lt;a href=&#34;https://www.le253.fr/amphitheatre&#34;&gt;Le 253), Paris 10ème&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-video  pr-1 fa-fw&#34;&gt;&lt;/i&gt; lien visio (à venir)&lt;/p&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -45,15 +46,19 @@ concerné, le temps d’entraînement, etc.&lt;/li&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
  --&gt;
-&lt;h2 id=&#34;quiz-discussion&#34;&gt;Quiz, discussion&lt;/h2&gt;
+&lt;!-- 
+## Quiz, discussion
+
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
   &lt;summary&gt;Quelle est la différence entre Machine Learning et Deep Learning?&lt;/summary&gt;
   &lt;p&gt;On en parle&lt;/p&gt;
 &lt;/details&gt;
+
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
   &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
   &lt;p&gt;Yes&lt;/p&gt;
 &lt;/details&gt;
+--&gt;
 </description>
     </item>
     
