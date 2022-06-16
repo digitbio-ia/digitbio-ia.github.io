@@ -143,15 +143,19 @@ concerné, le temps d’entraînement, etc.&lt;/li&gt;
 &lt;h2 id=&#34;intervenants&#34;&gt;Intervenants&lt;/h2&gt;
 &lt;p&gt;Focus : &lt;a href=&#34;https://digitibio-ia.github.io/authors/cmaugis/&#34;&gt;Cathy Maugis&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;Comment trouver des structures dans vos données biologiques  avec la classification non supervisée: méthodes de distance, modèles de mélange ou réseaux de neurones&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/HXhs5FopCho&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br/&gt;
 &lt;p&gt;Binôme : &lt;a href=&#34;https://digitibio-ia.github.io/authors/sdonnet/&#34;&gt;Sophie Donnet&lt;/a&gt;, &lt;a href=&#34;https://digitibio-ia.github.io/authors/fmassol/&#34;&gt;François Massol&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;Apprentissage non supervisé de structures de graphes: en quoi l&amp;rsquo;analyse de réseaux aide à comprendre les interactions et l&amp;rsquo;organisation des réseaux écologiques&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;vidéo&#34;&gt;Vidéo&lt;/h2&gt;
-&lt;p&gt;à venir&lt;/p&gt;
-&lt;!-- 
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/F51PgM7Zjwg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
- --&gt;
+
 </description>
     </item>
     
@@ -164,6 +168,7 @@ concerné, le temps d’entraînement, etc.&lt;/li&gt;
   &lt;div&gt;
     &lt;p&gt;Informations pratiques&lt;/p&gt;
 &lt;p&gt;La séance aura lieu en 100% distanciel&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-map-marker-alt  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://inrae-fr.zoom.us/webinar/register/WN_mKp7fjEUTqSFINaN-c_vCw&#34;&gt;S&amp;rsquo;inscrire&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 27 juin 2022 après-midi (14:00 - 17:00)&lt;/p&gt;
 &lt;p&gt;&lt;i class=&#34;fas fa-video  pr-1 fa-fw&#34;&gt;&lt;/i&gt; le lien visio sera transmis aux participants inscrits&lt;/p&gt;
 
@@ -172,7 +177,9 @@ concerné, le temps d’entraînement, etc.&lt;/li&gt;
 
 &lt;h2 id=&#34;intervenants&#34;&gt;Intervenants&lt;/h2&gt;
 &lt;p&gt;Focus : &lt;a href=&#34;https://digitibio-ia.github.io/authors/sallassonniere/&#34;&gt;Stéphanie Allassonnière&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Identification de structure par réduction de dimension : de l’analyse en composantes principales aux auto-encodeurs variationnels&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Binôme : &lt;a href=&#34;https://digitibio-ia.github.io/authors/ogandrillon/&#34;&gt;Olivier Gandrillon&lt;/a&gt;, &lt;a href=&#34;https://digitibio-ia.github.io/authors/fpicard/&#34;&gt;Franck Picard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Quelle est la dimension pertinente de l’espace d’expression des gènes?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;vidéo&#34;&gt;Vidéo&lt;/h2&gt;
 &lt;p&gt;à venir&lt;/p&gt;
 &lt;!-- 

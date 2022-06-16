@@ -21,6 +21,7 @@
   &lt;div&gt;
     &lt;p&gt;Informations pratiques&lt;/p&gt;
 &lt;p&gt;La séance aura lieu en 100% distanciel&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fas fa-map-marker-alt  pr-1 fa-fw&#34;&gt;&lt;/i&gt; &lt;a href=&#34;https://inrae-fr.zoom.us/webinar/register/WN_mKp7fjEUTqSFINaN-c_vCw&#34;&gt;S&amp;rsquo;inscrire&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 27 juin 2022 après-midi (14:00 - 17:00)&lt;/p&gt;
 &lt;p&gt;&lt;i class=&#34;fas fa-video  pr-1 fa-fw&#34;&gt;&lt;/i&gt; le lien visio sera transmis aux participants inscrits&lt;/p&gt;
 
@@ -29,7 +30,9 @@
 
 &lt;h2 id=&#34;intervenants&#34;&gt;Intervenants&lt;/h2&gt;
 &lt;p&gt;Focus : &lt;a href=&#34;https://digitibio-ia.github.io/authors/sallassonniere/&#34;&gt;Stéphanie Allassonnière&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Identification de structure par réduction de dimension : de l’analyse en composantes principales aux auto-encodeurs variationnels&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Binôme : &lt;a href=&#34;https://digitibio-ia.github.io/authors/ogandrillon/&#34;&gt;Olivier Gandrillon&lt;/a&gt;, &lt;a href=&#34;https://digitibio-ia.github.io/authors/fpicard/&#34;&gt;Franck Picard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Quelle est la dimension pertinente de l’espace d’expression des gènes?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;vidéo&#34;&gt;Vidéo&lt;/h2&gt;
 &lt;p&gt;à venir&lt;/p&gt;
 &lt;!-- 
