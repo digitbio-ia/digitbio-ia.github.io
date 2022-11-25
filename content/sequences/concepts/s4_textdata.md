@@ -1,0 +1,42 @@
+---
+title: 'Introduction à l'extraction d'information'
+summary: "à venir"
+date: '2022-01-01'
+type: book
+weight: 50
+math: true
+tags:
+  - concepts
+  - 'documents textuels'
+  - 'extraction'
+  
+---
+
+{{< callout note >}}
+Informations pratiques
+
+La séance aura lieu en 100% distanciel
+
+{{< icon name="map-marker-alt" pack="fas" >}} <a href="https://inrae-fr.zoom.us/webinar/register/WN_mKp7fjEUTqSFINaN-c_vCw">S'inscrire</a>
+
+{{< icon name="clock" pack="fas" >}} 12 janvier 2023 après-midi (14:00 - 17:00)
+
+{{< icon name="video" pack="fas" >}} le lien visio sera transmis aux participants inscrits
+
+{{< /callout >}}
+
+
+## Intervenants
+
+Focus : {{< mention "aferre" >}}
+
+*"Comment extraire automatiquement des informations de documents textuels ?"*
+
+
+Étude de cas : {{< mention "rbossy" >}}
+
+*"Mise en pratique de l'Extraction d'Information dans le domaine de la biodiversité microbienne"*
+
+
+
+
