@@ -31,12 +31,18 @@ Focus : {{< mention "sallassonniere" >}}
 
 *"Identification de structure par réduction de dimension : de l’analyse en composantes principales aux auto-encodeurs variationnels"*
 
+{{< youtube bsbdrAQ3AnE >}}
+
+{{% staticref "uploads/presentation_Stephanie Allassonniere.pdf" "newtab" %}} Télécharger la présentation{{% /staticref %}}
+
 Binôme : {{< mention "ogandrillon" >}}, {{< mention "fpicard" >}}
 
 *"Quelle est la dimension pertinente de l’espace d’expression des gènes?"*
 
-## Vidéo
+{{< youtube i6rZ1uqRxZE >}}
 
-à venir
+{{% staticref "uploads/presentation_Olivier_Gandrillon.pdf" "newtab" %}} Télécharger la présentation de Olivier{{% /staticref %}}
 
-<!-- {{< youtube rfscVS0vtbw >}} -->
+{{% staticref "uploads/presentation_Franck_Picard" "newtab" %}} Télécharger la présentation de Franck {{% /staticref %}}
+
+
