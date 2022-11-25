@@ -6,11 +6,11 @@ title: Robert Bossy
 superuser: false
 
 # Role/position
-role: IR, MaIAGE, INRAE
+role: IR INRAE, Mathnum
 
 # Organizations/Affiliations
 organizations:
-- name: MaIAGE, INRAE, Université Paris-Saclay
+- name: MaIAGE
   url: "https://maiage.inrae.fr/en/robert-bossy"
 
 # Short bio (displayed in user profile at end of posts)

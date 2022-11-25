@@ -6,11 +6,11 @@ title: Arnaud Ferré
 superuser: false
 
 # Role/position
-role: CR, MaIAGE, INRAE
+role: CR INRAE, Mathnum
 
 # Organizations/Affiliations
 organizations:
-- name: MaIAGE, INRAE, Université Paris-Saclay
+- name: MaIAGE
   url: "https://maiage.inrae.fr/fr/node/2485"
 
 # Short bio (displayed in user profile at end of posts)
