@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>concepts | Digitbio IA</title><link>https://digitbio-ia.github.io/tag/concepts/</link><atom:link href="https://digitbio-ia.github.io/tag/concepts/index.xml" rel="self" type="application/rss+xml"/><description>concepts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Inrae</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://digitbio-ia.github.io/media/logo_hu40fa1829dd812e43487ec4e8d65c9e28_11248_300x300_fit_lanczos_3.png</url><title>concepts</title><link>https://digitbio-ia.github.io/tag/concepts/</link></image><item><title>Introduction à l'IA et au Machine Learning</title><link>https://digitbio-ia.github.io/sequences/concepts/s0_intro/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://digitbio-ia.github.io/sequences/concepts/s0_intro/</guid><description>&lt;p>L&amp;rsquo;objective de cette séance introductive est&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>concepts | Digitbio IA</title><link>https://digitbio-ia.github.io/tag/concepts/</link><atom:link href="https://digitbio-ia.github.io/tag/concepts/index.xml" rel="self" type="application/rss+xml"/><description>concepts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Inrae</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://digitbio-ia.github.io/media/logo_hu40fa1829dd812e43487ec4e8d65c9e28_11248_300x300_fit_lanczos_3.png</url><title>concepts</title><link>https://digitbio-ia.github.io/tag/concepts/</link></image><item><title>Introduction à l'IA et au Machine Learning</title><link>https://digitbio-ia.github.io/sequences/concepts/s0_intro/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://digitbio-ia.github.io/sequences/concepts/s0_intro/</guid><description>&lt;p>L&amp;rsquo;objective de cette séance introductive est&lt;/p>
 &lt;ul>
 &lt;li>d&amp;rsquo;identifier les tâches de l’apprentissage statistique&lt;/li>
 &lt;li>montrer des exemples d’utilisation d’IA dans notre quotidien&lt;/li>
@@ -88,21 +88,16 @@ concerné, le temps d’entraînement, etc.&lt;/li>
 &lt;iframe src="https://www.youtube.com/embed/i6rZ1uqRxZE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;p>&lt;a href="https://digitbio-ia.github.io/uploads/presentation_Olivier_Gandrillon.pdf" target="_blank"> Télécharger la présentation de Olivier&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://digitbio-ia.github.io/uploads/presentation_Franck_Picard" target="_blank"> Télécharger la présentation de Franck &lt;/a>&lt;/p></description></item><item><title>Natural Language Processing et Web sémantique</title><link>https://digitbio-ia.github.io/sequences/concepts/s4_nlp/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://digitbio-ia.github.io/sequences/concepts/s4_nlp/</guid><description>&lt;div class="alert alert-note">
+&lt;p>&lt;a href="https://digitbio-ia.github.io/uploads/presentation_Franck_Picard" target="_blank"> Télécharger la présentation de Franck &lt;/a>&lt;/p></description></item><item><title>Séance 4: Introduction à l’extraction d’information</title><link>https://digitbio-ia.github.io/sequences/concepts/s4_textdata/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://digitbio-ia.github.io/sequences/concepts/s4_textdata/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 &lt;p>Informations pratiques&lt;/p>
-&lt;p>&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> septembre 2022&lt;/p>
-&lt;p>&lt;i class="fas fa-map-marker-alt pr-1 fa-fw">&lt;/i> lieu&lt;/p>
-&lt;p>&lt;i class="fas fa-video pr-1 fa-fw">&lt;/i> lien visio&lt;/p>
+&lt;p>La séance aura lieu en 100% distanciel&lt;/p>
+&lt;p>&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 12 janvier 2023 après-midi (14:00 - 17:00)&lt;/p>
+&lt;p>&lt;i class="fas fa-video pr-1 fa-fw">&lt;/i> le lien visio sera transmis aux participants inscrits&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;h2 id="intervenants">Intervenants&lt;/h2>
-&lt;p>Focus :
-Binôme :&lt;/p>
-&lt;h2 id="vidéo">Vidéo&lt;/h2>
-&lt;p>à venir&lt;/p>
-&lt;!--
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/rfscVS0vtbw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div>
---></description></item></channel></rss>
+&lt;p>Focus : &lt;a href="https://digitbio-ia.github.io/authors/aferre/">Arnaud Ferré&lt;/a>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Comment extraire automatiquement des informations de documents textuels ?&amp;rdquo;&lt;/em>&lt;/p>
+&lt;p>Étude de cas : &lt;a href="https://digitbio-ia.github.io/authors/rbossy/">Robert Bossy&lt;/a>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Mise en pratique de l&amp;rsquo;Extraction d&amp;rsquo;Information dans le domaine de la biodiversité microbienne&amp;rdquo;&lt;/em>&lt;/p></description></item></channel></rss>
