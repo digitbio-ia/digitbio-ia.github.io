@@ -25,7 +25,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 'Séance 4: Traitement automatique des langues'
+- 'Séance 4: Introduction à l’extraction d’information'
 ---
 
 ## Biographie courte

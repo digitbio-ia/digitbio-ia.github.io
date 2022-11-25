@@ -19,6 +19,7 @@ content:
   - 'Séance 1: Machine Learning pour la classification supervisée'
   - 'Séance 2: Identification de structures par classification non-supervisée'
   - 'Séance 3: Identification de structures par réduction de dimension'
+  - 'Séance 4: Introduction à l’extraction d’information'
   - Organisateurs
 design:
   show_interests: false

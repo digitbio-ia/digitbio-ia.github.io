@@ -13,13 +13,13 @@ design:
     gradient_end: '#fff'
     text_color_light: false
 cta:
-  url: 'sequences/concepts/s3_dimreduction'
-  label: 'Prochaine séance: 27 juin 2022'
+  url: 'sequences/concepts/s4_textdata'
+  label: 'Prochaine séance: 12 janvier 2023'
   icon_pack: fas
   icon: play
 cta_alt:
   label: "S'inscrire"
-  url: 'https://inrae-fr.zoom.us/webinar/register/WN_mKp7fjEUTqSFINaN-c_vCw'
+  url: ''
 ---
 
 <small>

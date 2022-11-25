@@ -1,6 +1,6 @@
 ---
-title: 'Introduction à l'extraction d'information'
-summary: "à venir"
+title: "Séance 4: Introduction à l’extraction d’information"
+summary: "Données textuelles, NLP, IA symbolique"
 date: '2022-01-01'
 type: book
 weight: 50
@@ -9,15 +9,12 @@ tags:
   - concepts
   - 'documents textuels'
   - 'extraction'
-  
 ---
 
 {{< callout note >}}
 Informations pratiques
 
 La séance aura lieu en 100% distanciel
-
-{{< icon name="map-marker-alt" pack="fas" >}} <a href="https://inrae-fr.zoom.us/webinar/register/WN_mKp7fjEUTqSFINaN-c_vCw">S'inscrire</a>
 
 {{< icon name="clock" pack="fas" >}} 12 janvier 2023 après-midi (14:00 - 17:00)
 
@@ -31,7 +28,6 @@ La séance aura lieu en 100% distanciel
 Focus : {{< mention "aferre" >}}
 
 *"Comment extraire automatiquement des informations de documents textuels ?"*
-
 
 Étude de cas : {{< mention "rbossy" >}}
 

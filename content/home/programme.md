@@ -114,5 +114,31 @@ design:
    <td style="text-align:left;"> Olivier Gandrillon, Franck Picard </td>
    <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction"> Quelle est la dimension pertinente de l’espace d’expression des gènes? </a> </td>
   </tr>
+
+  <tr>
+   <td style="text-align:left;"> 12/01/23 </td>
+   <td style="text-align:left;"> 14:00 – 17:00 </td>
+   <td style="text-align:left;"> distanciel </td>
+   <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #5BBCD6 !important;">Séance 4</span> </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s4_textdata">Introduction à l'extraction de connaissances</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 14:00 – 15:30 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
+   <td style="text-align:left;"> Arnaud Ferré </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s4_textdata">Comment extraire automatiquement des informations de documents textuels ?</a> </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 16:00 – 17:00 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00A08A !important;">Étude de cas</span> </td>
+   <td style="text-align:left;"> Robert Bossy </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s4_textdata"> Mise en pratique de l'Extraction d'Information dans le domaine de la biodiversité microbienne </a> </td>
+  </tr>
+
 </tbody>
 </table>
