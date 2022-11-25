@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>illustrations | Digitbio IA</title><link>https://digitbio-ia.github.io/tag/illustrations/</link><atom:link href="https://digitbio-ia.github.io/tag/illustrations/index.xml" rel="self" type="application/rss+xml"/><description>illustrations</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Inrae</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://digitbio-ia.github.io/media/logo_hu40fa1829dd812e43487ec4e8d65c9e28_11248_300x300_fit_lanczos_3.png</url><title>illustrations</title><link>https://digitbio-ia.github.io/tag/illustrations/</link></image><item><title>Thème à définir</title><link>https://digitbio-ia.github.io/sequences/illustrations/s1_example/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://digitbio-ia.github.io/sequences/illustrations/s1_example/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+&lt;p>Informations pratiques&lt;/p>
+&lt;p>&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 2023&lt;/p>
+&lt;p>&lt;i class="fas fa-map-marker-alt pr-1 fa-fw">&lt;/i> lieu&lt;/p>
+&lt;p>&lt;i class="fas fa-video pr-1 fa-fw">&lt;/i> lien visio&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="intervenants">Intervenants&lt;/h2>
+&lt;ol>
+&lt;li>doctorant.e. 1&lt;/li>
+&lt;li>doctorant.e. 2&lt;/li>
+&lt;li>doctorant.e. 3&lt;/li>
+&lt;/ol>
+&lt;h2 id="vidéo">Vidéo&lt;/h2>
+&lt;p>à venir&lt;/p>
+&lt;!--
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/rfscVS0vtbw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+-->
+&lt;h2 id="quiz-discussion">Quiz, discussion&lt;/h2>
+&lt;details class="spoiler " id="spoiler-2">
+&lt;summary>Question&lt;/summary>
+&lt;p>On en parle&lt;/p>
+&lt;/details></description></item></channel></rss>

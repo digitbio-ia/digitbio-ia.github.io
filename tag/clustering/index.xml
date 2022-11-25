@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>clustering | Digitbio IA</title><link>https://digitbio-ia.github.io/tag/clustering/</link><atom:link href="https://digitbio-ia.github.io/tag/clustering/index.xml" rel="self" type="application/rss+xml"/><description>clustering</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Inrae</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://digitbio-ia.github.io/media/logo_hu40fa1829dd812e43487ec4e8d65c9e28_11248_300x300_fit_lanczos_3.png</url><title>clustering</title><link>https://digitbio-ia.github.io/tag/clustering/</link></image><item><title>Identification de structures par classification non-supervisée</title><link>https://digitbio-ia.github.io/sequences/concepts/s2_clustering/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://digitbio-ia.github.io/sequences/concepts/s2_clustering/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+&lt;p>Informations pratiques&lt;/p>
+&lt;p>La séance aura lieu en 100% distanciel&lt;/p>
+&lt;p>&lt;i class="fas fa-map-marker-alt pr-1 fa-fw">&lt;/i> &lt;a href="https://app.livestorm.co/inrae/lia-en-sciences-du-vivant-seance-2-du-modele-de-melanges-aux-reseaux-de-neurones?type=detailed">S&amp;rsquo;inscrire&lt;/a>&lt;/p>
+&lt;p>&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 23 mai 2022 après-midi (14:00 - 17:00)&lt;/p>
+&lt;p>&lt;i class="fas fa-video pr-1 fa-fw">&lt;/i> le lien visio sera transmis aux participants inscrits&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="intervenants">Intervenants&lt;/h2>
+&lt;p>Focus : &lt;a href="https://digitbio-ia.github.io/authors/cmaugis/">Cathy Maugis&lt;/a>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Comment trouver des structures dans vos données biologiques avec la classification non supervisée: méthodes de distance, modèles de mélange ou réseaux de neurones&amp;rdquo;&lt;/em>&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/HXhs5FopCho" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;br/>
+&lt;p>Binôme : &lt;a href="https://digitbio-ia.github.io/authors/sdonnet/">Sophie Donnet&lt;/a>, &lt;a href="https://digitbio-ia.github.io/authors/fmassol/">François Massol&lt;/a>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Apprentissage non supervisé de structures de graphes: en quoi l&amp;rsquo;analyse de réseaux aide à comprendre les interactions et l&amp;rsquo;organisation des réseaux écologiques&amp;rdquo;&lt;/em>&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/F51PgM7Zjwg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item></channel></rss>

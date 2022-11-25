@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://digitbio-ia.github.io/sitemap.xml

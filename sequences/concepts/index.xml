@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Séquence 1: concepts en IA | Digitbio IA</title><link>https://digitbio-ia.github.io/sequences/concepts/</link><atom:link href="https://digitbio-ia.github.io/sequences/concepts/index.xml" rel="self" type="application/rss+xml"/><description>Séquence 1: concepts en IA</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Inrae</copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://digitbio-ia.github.io/sequences/concepts/featured.jpg</url><title>Séquence 1: concepts en IA</title><link>https://digitbio-ia.github.io/sequences/concepts/</link></image><item><title>Introduction à l'IA et au Machine Learning</title><link>https://digitbio-ia.github.io/sequences/concepts/s0_intro/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://digitbio-ia.github.io/sequences/concepts/s0_intro/</guid><description>&lt;p>L&amp;rsquo;objective de cette séance introductive est&lt;/p>
+&lt;ul>
+&lt;li>d&amp;rsquo;identifier les tâches de l’apprentissage statistique&lt;/li>
+&lt;li>montrer des exemples d’utilisation d’IA dans notre quotidien&lt;/li>
+&lt;li>associer ces exemples aux tâches précédentes,&lt;/li>
+&lt;li>en évaluer les limites: coûts calculatoires, régime de données
+concerné, le temps d’entraînement, etc.&lt;/li>
+&lt;/ul>
+&lt;div class="alert alert-note">
+&lt;div>
+&lt;p>Informations pratiques&lt;/p>
+&lt;p>La séance aura lieu en 100% distanciel&lt;/p>
+&lt;p>&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 31 janvier 2022 après-midi (14:00 - 17:00)&lt;/p>
+&lt;p>&lt;i class="fas fa-video pr-1 fa-fw">&lt;/i> le lien visio sera transmis aux participants inscrits&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="intervenants">Intervenants&lt;/h2>
+&lt;p>Orateur principal: &lt;a href="https://digitbio-ia.github.io/authors/lralaivola/">Liva Ralaivola&lt;/a>&lt;/p>
+&lt;p>Animatrices et animateur: &lt;a href="https://digitbio-ia.github.io/authors/crobertgr/">Christèle Robert-Granié&lt;/a>, &lt;a href="https://digitbio-ia.github.io/authors/mlmartin/">Marie-Laure Martin&lt;/a>, &lt;a href="https://digitbio-ia.github.io/authors/jchiquet/">Julien Chiquet&lt;/a>&lt;/p>
+&lt;h2 id="vidéo">Vidéo&lt;/h2>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/3wqD8jtwD1U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="présentation">Présentation&lt;/h2>
+&lt;p>&lt;a href="https://digitbio-ia.github.io/uploads/20223101_RALAIVOLA_INRAE.pdf" target="_blank"> Télécharger la présentation&lt;/a>&lt;/p></description></item><item><title>Machine Learning pour la classification supervisée</title><link>https://digitbio-ia.github.io/sequences/concepts/s1_classification/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://digitbio-ia.github.io/sequences/concepts/s1_classification/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+&lt;p>Informations pratiques&lt;/p>
+&lt;p>La séance a eu lieu le 7 avril 2022 après-midi (14:00 - 17:00)&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="intervenants">Intervenants&lt;/h2>
+&lt;p>&lt;strong>Focus :&lt;/strong> &lt;a href="https://digitbio-ia.github.io/authors/bhanczar/">Blaise Hanczar&lt;/a>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Comment faire des prédictions à partir de vos données biologiques grâce au Machine Learning ? De la régression logistique aux réseaux de neurones&amp;rdquo;&lt;/em>&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/oyHqYjzhW_8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a href="https://digitbio-ia.github.io/uploads/Presentation_Blaise_Hanczar.pdf" target="_blank"> Télécharger la présentation&lt;/a>&lt;/p>
+&lt;br/>
+&lt;p>&lt;strong>Binôme :&lt;/strong> &lt;a href="https://digitbio-ia.github.io/authors/emoebel/">Emmanuel Moebel&lt;/a>, &lt;a href="https://digitbio-ia.github.io/authors/ffatmaoui/">Fadwa Fatmaoui&lt;/a>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Explorer le paysage cellulaire avec le Deep Learning: Plongez à l&amp;rsquo;intérieur de la cellule et découvrez l&amp;rsquo;organisation des macromolécules.&amp;rdquo;&lt;/em>&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/grVC4A80yOQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="compléments">Compléments&lt;/h2>
+&lt;p>Pour introduire et compléter cette séance, deux cours à succès sont proposés sous forme de série de vidéo&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://fr.coursera.org/learn/machine-learning#syllabus" target="_blank" rel="noopener">Le MOOC de Andrew Ng sur le machine learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" target="_blank" rel="noopener">Le Cours de Fei-Fei sur le deep learning&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Identification de structures par classification non-supervisée</title><link>https://digitbio-ia.github.io/sequences/concepts/s2_clustering/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://digitbio-ia.github.io/sequences/concepts/s2_clustering/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+&lt;p>Informations pratiques&lt;/p>
+&lt;p>La séance aura lieu en 100% distanciel&lt;/p>
+&lt;p>&lt;i class="fas fa-map-marker-alt pr-1 fa-fw">&lt;/i> &lt;a href="https://app.livestorm.co/inrae/lia-en-sciences-du-vivant-seance-2-du-modele-de-melanges-aux-reseaux-de-neurones?type=detailed">S&amp;rsquo;inscrire&lt;/a>&lt;/p>
+&lt;p>&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 23 mai 2022 après-midi (14:00 - 17:00)&lt;/p>
+&lt;p>&lt;i class="fas fa-video pr-1 fa-fw">&lt;/i> le lien visio sera transmis aux participants inscrits&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="intervenants">Intervenants&lt;/h2>
+&lt;p>Focus : &lt;a href="https://digitbio-ia.github.io/authors/cmaugis/">Cathy Maugis&lt;/a>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Comment trouver des structures dans vos données biologiques avec la classification non supervisée: méthodes de distance, modèles de mélange ou réseaux de neurones&amp;rdquo;&lt;/em>&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/HXhs5FopCho" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;br/>
+&lt;p>Binôme : &lt;a href="https://digitbio-ia.github.io/authors/sdonnet/">Sophie Donnet&lt;/a>, &lt;a href="https://digitbio-ia.github.io/authors/fmassol/">François Massol&lt;/a>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Apprentissage non supervisé de structures de graphes: en quoi l&amp;rsquo;analyse de réseaux aide à comprendre les interactions et l&amp;rsquo;organisation des réseaux écologiques&amp;rdquo;&lt;/em>&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/F51PgM7Zjwg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Identification de structures par réduction de dimension</title><link>https://digitbio-ia.github.io/sequences/concepts/s3_dimreduction/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://digitbio-ia.github.io/sequences/concepts/s3_dimreduction/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+&lt;p>Informations pratiques&lt;/p>
+&lt;p>La séance aura lieu en 100% distanciel&lt;/p>
+&lt;p>&lt;i class="fas fa-map-marker-alt pr-1 fa-fw">&lt;/i> &lt;a href="https://inrae-fr.zoom.us/webinar/register/WN_mKp7fjEUTqSFINaN-c_vCw">S&amp;rsquo;inscrire&lt;/a>&lt;/p>
+&lt;p>&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> 27 juin 2022 après-midi (14:00 - 17:00)&lt;/p>
+&lt;p>&lt;i class="fas fa-video pr-1 fa-fw">&lt;/i> le lien visio sera transmis aux participants inscrits&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="intervenants">Intervenants&lt;/h2>
+&lt;p>Focus : &lt;a href="https://digitbio-ia.github.io/authors/sallassonniere/">Stéphanie Allassonnière&lt;/a>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Identification de structure par réduction de dimension : de l’analyse en composantes principales aux auto-encodeurs variationnels&amp;rdquo;&lt;/em>&lt;/p>
+&lt;p>Binôme : &lt;a href="https://digitbio-ia.github.io/authors/ogandrillon/">Olivier Gandrillon&lt;/a>, &lt;a href="https://digitbio-ia.github.io/authors/fpicard/">Franck Picard&lt;/a>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Quelle est la dimension pertinente de l’espace d’expression des gènes?&amp;rdquo;&lt;/em>&lt;/p>
+&lt;h2 id="vidéo">Vidéo&lt;/h2>
+&lt;p>à venir&lt;/p>
+&lt;!--
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/rfscVS0vtbw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+--></description></item><item><title>Natural Language Processing et Web sémantique</title><link>https://digitbio-ia.github.io/sequences/concepts/s4_nlp/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://digitbio-ia.github.io/sequences/concepts/s4_nlp/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+&lt;p>Informations pratiques&lt;/p>
+&lt;p>&lt;i class="fas fa-clock pr-1 fa-fw">&lt;/i> septembre 2022&lt;/p>
+&lt;p>&lt;i class="fas fa-map-marker-alt pr-1 fa-fw">&lt;/i> lieu&lt;/p>
+&lt;p>&lt;i class="fas fa-video pr-1 fa-fw">&lt;/i> lien visio&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="intervenants">Intervenants&lt;/h2>
+&lt;p>Focus :
+Binôme :&lt;/p>
+&lt;h2 id="vidéo">Vidéo&lt;/h2>
+&lt;p>à venir&lt;/p>
+&lt;!--
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/rfscVS0vtbw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+--></description></item></channel></rss>

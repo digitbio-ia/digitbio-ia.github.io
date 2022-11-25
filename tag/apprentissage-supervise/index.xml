@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>apprentissage supervisé | Digitbio IA</title><link>https://digitbio-ia.github.io/tag/apprentissage-supervise/</link><atom:link href="https://digitbio-ia.github.io/tag/apprentissage-supervise/index.xml" rel="self" type="application/rss+xml"/><description>apprentissage supervisé</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Inrae</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://digitbio-ia.github.io/media/logo_hu40fa1829dd812e43487ec4e8d65c9e28_11248_300x300_fit_lanczos_3.png</url><title>apprentissage supervisé</title><link>https://digitbio-ia.github.io/tag/apprentissage-supervise/</link></image><item><title>Machine Learning pour la classification supervisée</title><link>https://digitbio-ia.github.io/sequences/concepts/s1_classification/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://digitbio-ia.github.io/sequences/concepts/s1_classification/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+&lt;p>Informations pratiques&lt;/p>
+&lt;p>La séance a eu lieu le 7 avril 2022 après-midi (14:00 - 17:00)&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="intervenants">Intervenants&lt;/h2>
+&lt;p>&lt;strong>Focus :&lt;/strong> &lt;a href="https://digitbio-ia.github.io/authors/bhanczar/">Blaise Hanczar&lt;/a>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Comment faire des prédictions à partir de vos données biologiques grâce au Machine Learning ? De la régression logistique aux réseaux de neurones&amp;rdquo;&lt;/em>&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/oyHqYjzhW_8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a href="https://digitbio-ia.github.io/uploads/Presentation_Blaise_Hanczar.pdf" target="_blank"> Télécharger la présentation&lt;/a>&lt;/p>
+&lt;br/>
+&lt;p>&lt;strong>Binôme :&lt;/strong> &lt;a href="https://digitbio-ia.github.io/authors/emoebel/">Emmanuel Moebel&lt;/a>, &lt;a href="https://digitbio-ia.github.io/authors/ffatmaoui/">Fadwa Fatmaoui&lt;/a>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Explorer le paysage cellulaire avec le Deep Learning: Plongez à l&amp;rsquo;intérieur de la cellule et découvrez l&amp;rsquo;organisation des macromolécules.&amp;rdquo;&lt;/em>&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/grVC4A80yOQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="compléments">Compléments&lt;/h2>
+&lt;p>Pour introduire et compléter cette séance, deux cours à succès sont proposés sous forme de série de vidéo&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://fr.coursera.org/learn/machine-learning#syllabus" target="_blank" rel="noopener">Le MOOC de Andrew Ng sur le machine learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" target="_blank" rel="noopener">Le Cours de Fei-Fei sur le deep learning&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
